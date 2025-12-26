@@ -1,0 +1,65 @@
+# 🌐 Camada de Rede e Configurações de Rede IP
+
+Este repositório contém um trabalho acadêmico desenvolvido para a disciplina de **Redes de Computadores**, com foco na **Camada de Rede do Modelo OSI** e nos principais conceitos relacionados ao funcionamento da Internet.
+
+O objetivo do projeto é explicar, de forma clara e organizada, como ocorre a comunicação entre redes diferentes, abordando protocolos, técnicas e mecanismos fundamentais utilizados no dia a dia das redes modernas.
+
+---
+
+## 📘 Conteúdos Abordados
+
+- 📌 Camada de Rede no Modelo OSI  
+- 🔁 Roteamento e Repasse (Forwarding)  
+- 📦 Comutação Store and Forward  
+- 🔌 Circuitos Virtuais e Datagramas  
+- 🌍 Protocolo IP (IPv4)  
+- 🧮 CIDR (Classless Inter-Domain Routing)  
+- 🧩 Sub-redes e Máscaras de Rede  
+- 🔎 Protocolo ARP  
+- 🔐 NAT (Network Address Translation)
+
+---
+
+## 🎯 Objetivo do Trabalho
+
+- Compreender o funcionamento da camada de rede  
+- Explicar como os dados são encaminhados entre redes distintas  
+- Demonstrar a importância do endereçamento IP, roteamento e tradução de endereços  
+- Aplicar conceitos teóricos de redes de computadores
+
+---
+
+## 🛠️ Tecnologias e Conceitos Utilizados
+
+- Modelo OSI  
+- Internet Protocol (IPv4)  
+- Endereçamento IP  
+- Roteamento de Pacotes  
+- Redes Locais e Internet  
+- Conceitos fundamentais de Redes de Computadores
+
+---
+
+## 📚 Referências
+
+- TANENBAUM, Andrew S. **Redes de Computadores**  
+- RFC 791 – Internet Protocol  
+- RFC 3022 – Network Address Translation (NAT)  
+- Materiais didáticos da disciplina de Redes de Computadores
+
+---
+
+## 👩‍💻 Autora
+
+**Vitória Ribeiro**  
+Estudante de Análise e Desenvolvimento de Sistemas  
+📌 Interesse em Redes, Segurança da Informação e Tecnologia  
+
+🔗 GitHub: https://github.com/ribeiros-tech
+
+---
+
+## 📌 Observação
+
+Este repositório tem finalidade **acadêmica e educacional**, podendo também ser utilizado como material de estudo e portfólio.
+
